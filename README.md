@@ -10,6 +10,7 @@ Unofficial scripts for installing Pterodactyl Panel & Wings. Works with the late
 Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not associated with the official Pterodactyl Project.
 
 ## Features
+Script is not mine, I just made it compatible with Centos 7
 
 - Automatic installation of the Pterodactyl Panel (dependencies, database, cronjob, nginx).
 - Automatic installation of the Pterodactyl Wings (Docker, systemd).
